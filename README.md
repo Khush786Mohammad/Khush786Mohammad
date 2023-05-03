@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **DSA , Android**
+- 💬 Ask me about **DSA , ANDROID**
 
 - 📫 How to reach me **khush786moh@gmail.com**
 
