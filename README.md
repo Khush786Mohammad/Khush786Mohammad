@@ -35,18 +35,10 @@
 
 <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="50" height="50"/>
 
-<img src="https://www.google.com/search?q=google+collab&tbm=isch&ved=2ahUKEwiCiv7-qr6AAxUM7DgGHSjmAwQQ2-cCegQIABAA&oq=google+collab&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOgcIABCKBRBDOgoIABCKBRCxAxBDOggIABCABBCxAzoNCAAQigUQsQMQgwEQQ1CZB1jWFmD-F2gAcAB4AIABwQGIAcUPkgEEMC4xNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=WHzKZIL-JozY4-EPqMyPIA&bih=747&biw=1536&rlz=1C1JJTC_enIN1019IN1020#imgrc=kKOjm-thSJ6RxM" width="50" height="50"/>
-
-
-<img src="https://www.google.com/search?rlz=1C1JJTC_enIN1019IN1020&sxsrf=AB5stBjG3gATKDTZ8FoVxEblv4iKinqsIA:1690991702144&q=html+logo&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi6teX9qr6AAxUTpVYBHbLQA2oQ0pQJegQICxAB&biw=1536&bih=747&dpr=1.25#imgrc=UUk-McA-9PlavM" width="50" height="50"/>
-
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="50" height="50"/>
 
 <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="50" height="50"/>
 
-<img src="https://www.google.com/search?q=css&tbm=isch&ved=2ahUKEwjK8dGiq76AAxXZyKACHTQEASQQ2-cCegQIABAA&oq=css&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIKCAAQigUQsQMQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoICAAQgAQQsQNQ7QVYzQpgjRBoAHAAeACAAYYCiAHcBpIBBTAuMS4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=o3zKZIqUGdmRg8UPtIiEoAI&bih=747&biw=1536&rlz=1C1JJTC_enIN1019IN1020#imgrc=UOtmqrnStIs6GM" width="50" height="50"/>
-
-<img src="https://www.google.com/search?q=js&tbm=isch&ved=2ahUKEwi99dbWq76AAxVb6KACHX3sAOsQ2-cCegQIABAA&oq=js&gs_lcp=CgNpbWcQAzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIICAAQgAQQsQMyBwgAEIoFEEMyCwgAEIAEELEDEIMBOgQIIxAnOgUIABCABDoNCAAQigUQsQMQgwEQQ1CaCFijC2DzDGgAcAB4AIABogGIAdIDkgEDMC4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=EH3KZL2tIdvQg8UP_diD2A4&bih=747&biw=1536&rlz=1C1JJTC_enIN1019IN1020#imgrc=hU9s2YTIGmF2PM" width="50" height="50"/>
 
 
 
