@@ -42,7 +42,7 @@
 
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/HTML5_logo_and_wordmark.png" width="50" height="50"/>
 
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/CSS3_logo_and_wordmark.png" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/CSS3_logo_and_wordmark.svg.png" width="50" height="50"/>
 
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/js.png" width="50" height="50"/>
 
