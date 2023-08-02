@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="50" height="50"/>
 
 
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/HTML5_logo_and_wordmark.svg.png" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/HTML5_Badge.svg.png" width="50" height="50"/>
 
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/CSS3_logo.svg.png" width="50" height="50"/>
 
