@@ -26,7 +26,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" height="50"/>
 
-<img src="https://www.google.com/search?q=git&tbm=isch&ved=2ahUKEwj68Jreq76AAxUVm2MGHbgwAQYQ2-cCegQIABAA&oq=git&gs_lcp=CgNpbWcQAzIECCMQJzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIHCAAQigUQQzIHCAAQigUQQzIICAAQgAQQsQMyBQgAEIAEOgsIABCABBCxAxCDAVDkCFi5CmDsC2gAcAB4AIABngKIAeMFkgEFMC4zLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=IH3KZPrgFJW2juMPuOGEMA&bih=747&biw=1536&rlz=1C1JJTC_enIN1019IN1020#imgrc=jpq4xLgv36ZQ1M" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/Git-Icon-1788C.png" width="50" height="50"/>
 
 
 <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="50" height="50"/>
