@@ -23,7 +23,6 @@
 <div>
 <h3 align="left">Skills and Knowledge</h3>
 <p align="left">
-<div>
 <!-- C logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/c.svg"
 width="50" height="50"/>
@@ -70,7 +69,7 @@ width="50" height="50"/>
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/vscode.svg" width="50" height="50"/>
 
 ---
-</div>
+
 </p>
 </div>
 <div>
