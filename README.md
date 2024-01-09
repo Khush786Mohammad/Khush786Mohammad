@@ -44,7 +44,7 @@ width="50" height="50"/>
 
 <!-- JavaScript Logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/javascript.svg"
-width="50" height="50" style="border-radius:10%"/>
+width="50" height="50" style="border-radius:10px;"/>
 
 <!-- React Logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/react.svg"
