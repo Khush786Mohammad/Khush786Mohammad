@@ -25,33 +25,33 @@
 <p align="left">
 <div>
 <!-- C logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/C.png"
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/c.svg"
 width="50" height="50"/>
 <!-- C++ Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/c++.png"
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/c++.svg"
 width="50" height="50"/>
 
 <!-- HTML 5 Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/html.png" 
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/html.svg" 
 width="50" height="50"/>
 
 <!-- CSS Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/css.png" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/css.svg" width="50" height="50"/>
 
 <!-- Tailwind logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/tailwind.png"
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/tailwind.svg"
 width="50" height="50"/>
 
 <!-- JavaScript Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/javascript.png"
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/javascript.svg"
 width="50" height="50"/>
 
 <!-- React Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/react.png"
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/react.svg"
 width="50" height="50"/>
 
 <!-- MySQL Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/mysql.png"
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/mysql.svg"
 width="50" height="50"/>
 
 <!-- Bash Logo -->
@@ -59,7 +59,7 @@ width="50" height="50"/>
 width="50" height="50"/>
 
 <!-- Git Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/git.png" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/git.svg" width="50" height="50"/>
 
 <!-- GitHub Logo -->
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" height="50"/>
