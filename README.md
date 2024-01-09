@@ -1,6 +1,6 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg)]
 <h1 align="center">Hi 👋, I'm Khush Mohammad</h1>
-<h3 align="center">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills good hand knowledge on C, C++, HTML, CSS, TAILWIND, JAVASCRIPT, DATABASES, SQL, JAVA.</h3>
+<h3 align="">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills and also good hand knowledge on C, C++, HTML, CSS, TAILWIND, JAVASCRIPT, DATABASES, SQL, JAVA.</h3>
 <img src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software.jpeg" align="right" alt="programming" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush786mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="khush786mohammad" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m am a bachelor Student of **Technology in Computer Science**
 
-- 💬 Ask me about **DSA , Tailwind , JavaScript, SQL**
+- 💬 Ask me about **DSA , Tailwind, JavaScript, MySQL**
 
 - 📫 How to reach me **khush786moh@gmail.com**
 
@@ -21,7 +21,7 @@
 
 
 <div>
-<h3 align="left">Skills</h3>
+<h3 align="left">Skills and Knowledge</h3>
 <p align="left">
 <div>
 <!-- C logo -->
@@ -44,7 +44,7 @@ width="50" height="50"/>
 
 <!-- JavaScript Logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/javascript.svg"
-width="50" height="50"/>
+width="50" height="50" style="border-radius:10%"/>
 
 <!-- React Logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/react.svg"
