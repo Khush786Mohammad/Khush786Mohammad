@@ -32,11 +32,11 @@ width="50" height="50"/>
 width="50" height="50"/>
 
 <!-- HTML 5 Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/html.svg.png" 
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/html.png" 
 width="50" height="50"/>
 
 <!-- CSS Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/css.svg.png" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/css.png" width="50" height="50"/>
 
 <!-- Tailwind logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/tailwind.png"
