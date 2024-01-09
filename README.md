@@ -35,7 +35,7 @@ width="50" height="50"/> <img src="https://user-images.githubusercontent.com/251
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khush786mohammad&show_icons=true&locale=en&layout=compact" alt="khush786mohammad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khush786mohammad&show_icons=true&locale=en" alt="khush786mohammad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khush786mohammad&show_icons=true&locale=en" alt="khush786mohammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khush786mohammad&" alt="khush786mohammad" /></p>
 </div>
