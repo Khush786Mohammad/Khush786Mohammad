@@ -1,11 +1,9 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg)]
 <h1 align="center">Hi 👋, I'm Khush Mohammad</h1>
 <h3 align="">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills and also good hand knowledge on C, C++, HTML, CSS, TAILWIND, JAVASCRIPT, DATABASES, SQL, JAVA.</h3>
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/code.jpg" align="right" alt="programming" width="350" border-radius="50">
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/code.jpg" align="right" alt="programming" width="300" border-radius="50px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush786mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="khush786mohammad" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently learning **React Framework**
 
