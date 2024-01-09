@@ -36,7 +36,8 @@ width="50" height="50"/>
 width="50" height="50"/>
 
 <!-- CSS Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/css.svg" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/css.svg" 
+width="50" height="50"/>
 
 <!-- Tailwind logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/tailwind.svg"
@@ -44,7 +45,7 @@ width="50" height="50"/>
 
 <!-- JavaScript Logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/javascript.svg"
-width="50" height="50" style="border-radius:10px;"/>
+width="50" height="50" border-radius="10px"/>
 
 <!-- React Logo -->
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/react.svg"
@@ -59,7 +60,8 @@ width="50" height="50"/>
 width="50" height="50"/>
 
 <!-- Git Logo -->
-<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/git.svg" width="50" height="50"/>
+<img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/git.svg"
+width="50" height="50"/>
 
 <!-- GitHub Logo -->
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" height="50"/>
@@ -69,6 +71,7 @@ width="50" height="50"/>
 
 ---
 </div>
+</p>
 </div>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khush786mohammad&show_icons=true&locale=en&layout=compact" alt="khush786mohammad" /></p>
