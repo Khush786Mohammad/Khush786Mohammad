@@ -1,6 +1,6 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg)]
 <h1 align="center">Hi 👋, I'm Khush Mohammad</h1>
-<h3 align="">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills and also good hand knowledge on C, C++, HTML, CSS, TAILWIND, JAVASCRIPT, DATABASES, SQL, JAVA.</h3>
+<h3 align="">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills and also have a good hand knowledge on C, C++, Html, Css, Tailwind, JavaScript, Databases, MySQL, Java.</h3>
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/code.jpg" style="border-radius: 10%;" align="right" alt="programming" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush786mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="khush786mohammad" /> </p>
@@ -35,7 +35,7 @@ width="50" height="50"/> <img src="https://user-images.githubusercontent.com/251
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khush786mohammad&show_icons=true&locale=en&layout=compact" alt="khush786mohammad" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khush786mohammad&show_icons=true&locale=en" alt="khush786mohammad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khush786mohammad&show_icons=true&locale=en" alt="khush786mohammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khush786mohammad&" alt="khush786mohammad" /></p>
 </div>
