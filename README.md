@@ -1,6 +1,6 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg)]
 <h1 align="center">Hi 👋, I'm Khush Mohammad</h1>
-<h3 align="">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills and also have a good hand knowledge on C, C++, Html, Css, Tailwind, JavaScript, Databases, MySQL, Java.</h3>
+<h3 align="">I am a final year Bachelor Student of Computer Science. I have a good problem solving skills and also have a good hand knowledge on C, C++, HTML, CSS, Tailwind, JavaScript, Databases, MySQL, Java.</h3>
 <img src="https://github.com/Khush786Mohammad/Khush786Mohammad/blob/master/Images/code.jpg" style="border-radius: 10%;" align="right" alt="programming" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush786mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="khush786mohammad" /> </p>
