@@ -1,201 +1,79 @@
-```md
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Khush Mohammad</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Khush%20Mohammad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20TCS&descAlignY=55&descSize=18" width="100%"/>
 
-<h3 align="center">
-Software Engineer | Backend Developer | Java & Spring Boot Enthusiast
-</h3>
+<a href="https://www.linkedin.com/in/khush-mohammad-27a348246/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer+at+TCS+India;Spring+Boot+%7C+Angular+%7C+Microservices;Always+going+deep%2C+never+staying+shallow;Currently+building+a+Notes+API+%2B+Frontend" alt="Typing SVG" />
+</a>
 
-<p align="center">
-Building scalable backend applications while understanding how they work under the hood.
-</p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Khush786Mohammad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<br/>
 
----
+### 👋 About Me
 
-# 💫 About Me
+- 💻 Software Engineer at **TCS India**, building and debugging real-world projects
+- 🧠 **Contextual Master** — when I pick up something new, I go deep. Spring, Spring Boot, Angular... I don't stop at "it works"
+- 🌱 Currently sharpening my knowledge of **Spring Boot, Microservices, JWT & Angular**
+- 🚀 Working on: **Notes API + Frontend** (backend first, frontend next)
+- 🏋️ Gym freak, lifelong learner, and a certified ☕ coffee addict
 
-- 💼 Software Engineer at **TCS**
-- 💻 Passionate about **Backend Development**
-- 🌱 Currently diving deeper into **Spring Boot, Spring Security, JWT, Microservices & Angular**
-- 🧠 I enjoy understanding technologies beyond the surface instead of just using them.
-- 🔍 Debugging is one of my favorite parts of software development.
-- 🚀 Always building projects to improve my engineering skills.
+<br/>
 
----
+### 🛠️ Tech Stack
 
-# 🚀 Current Focus
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,html,css,tailwind,bootstrap,mysql,cpp,git,github,postman,idea,vscode,linux&theme=dark" />
+</div>
 
-- Production-ready Spring Boot APIs
-- Authentication & Authorization (JWT)
-- REST API Design
-- Microservices Architecture
-- Angular Frontend Development
-- Clean Code & Best Practices
+<br/>
 
----
+**Also working with:** Spring Security · Hibernate/JPA · DSA
 
-# 🛠 Tech Stack
+<br/>
 
-## Languages
+### 🔥 Featured Project
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,mysql" />
-</p>
+<div align="center">
 
-## Backend
+[![Todo API](https://github-readme-stats.vercel.app/api/pin/?username=Khush786Mohammad&repo=Spring-Framework&theme=dark&title_color=0e75b6&icon_color=0e75b6)](https://github.com/Khush786Mohammad/Spring-Framework/tree/master/todo-api)
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
+_A Spring Boot Todo API — simple on the surface, deep dive underneath_ 😄
+**Next up:** Notes API + Frontend
 
-**Also Experienced With**
+</div>
 
-- Spring Boot
-- Spring Security
-- Spring MVC
-- Hibernate
-- JPA
-- REST APIs
+<br/>
 
----
+### 📊 GitHub Stats
 
-## Frontend
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khush786mohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush786mohammad&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,html,css" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khush786mohammad&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<br/>
 
-## Tools
+### 🌐 Connect with Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,linux" />
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khush-mohammad-27a348246/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khush786moh@gmail.com)
 
-# 📌 Featured Projects
+<!-- Portfolio coming end of August — add badge here once live:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL) -->
 
-## 📝 Todo API
+</div>
 
-Production-ready REST API built using Spring Boot.
+<br/>
 
-### Features
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=khush786mohammad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="khush786mohammad" />
+</div>
 
-- CRUD Operations
-- DTO Pattern
-- Bean Validation
-- Global Exception Handling
-- Logging
-- Swagger Documentation
-- Spring Data JPA
-- MySQL
-
-🔗 Repository:
-https://github.com/Khush786Mohammad/Spring-Framework/tree/master/todo-api
-
----
-
-## 📒 Notes API _(Currently Building)_
-
-A production-style Notes Management System.
-
-### Planned Features
-
-- JWT Authentication
-- Spring Security
-- User-based Notes
-- Validation
-- Exception Handling
-- Swagger
-- Docker
-- Angular Frontend
-- Microservices (Future)
-
----
-
-# 🎯 2026 Learning Roadmap
-
-- ✅ Angular
-- ✅ Spring Boot
-- ✅ Spring Security
-- ✅ JPA / Hibernate
-- ✅ REST APIs
-- ✅ JWT Authentication
-- 🔄 Microservices
-- 🔄 Redis
-- ⏳ Docker
-- ⏳ Kubernetes
-- ⏳ AWS
-- ⏳ System Design
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khush786Mohammad&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khush786Mohammad&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khush786Mohammad&theme=github-dark-blue"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khush786Mohammad&theme=github-dark"/>
-
-</p>
-
----
-
-# ☕ Beyond Coding
-
-- ☕ Coffee keeps the ideas flowing.
-- 🏋️ Fitness enthusiast.
-- 📚 Always learning something new.
-- 🔍 Love debugging and solving problems.
-- 💡 Enjoy building things from scratch.
-
----
-
-# 🌐 Connect With Me
-
-### LinkedIn
-
-> _Coming Soon_
-
-### Portfolio
-
-> _Coming Soon_
-
----
-
-# 💬 Favorite Quote
-
-> **"First make it work. Then understand why it works. Then make it better."**
-
----
-
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%"/>
