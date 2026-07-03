@@ -1,79 +1,135 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Khush Mohammad</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Khush%20Mohammad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20TCS&descAlignY=55&descSize=18" width="100%"/>
+<h3 align="center">Software Engineer | Backend Developer | Java & Spring Boot Enthusiast</h3>
 
-<a href="https://www.linkedin.com/in/khush-mohammad-27a348246/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer+at+TCS+India;Spring+Boot+%7C+Angular+%7C+Microservices;Always+going+deep%2C+never+staying+shallow;Currently+building+a+Notes+API+%2B+Frontend" alt="Typing SVG" />
-</a>
+<p align="center"><b>Building scalable backend applications while understanding how they work under the hood.</b></p>
 
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Khush786Mohammad&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<br/>
+---
 
-### 👋 About Me
+# 💫 About Me
 
-- 💻 Software Engineer at **TCS India**, building and debugging real-world projects
-- 🧠 **Contextual Master** — when I pick up something new, I go deep. Spring, Spring Boot, Angular... I don't stop at "it works"
-- 🌱 Currently sharpening my knowledge of **Spring Boot, Microservices, JWT & Angular**
-- 🚀 Working on: **Notes API + Frontend** (backend first, frontend next)
-- 🏋️ Gym freak, lifelong learner, and a certified ☕ coffee addict
+- 💼 Software Engineer at **TCS**
+- 💻 Passionate about **Backend Development**
+- 🌱 Currently learning **Spring Boot, Spring Security, JWT, Microservices & Angular**
+- 🧠 I enjoy understanding technologies beyond the surface.
+- 🔍 I genuinely enjoy debugging and solving complex problems.
+- 🚀 Always building projects to become a better software engineer.
 
-<br/>
+# 🚀 Current Focus
 
-### 🛠️ Tech Stack
+- Production-ready Spring Boot APIs
+- JWT Authentication
+- Spring Security
+- Microservices
+- Angular
+- Clean Architecture
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,html,css,tailwind,bootstrap,mysql,cpp,git,github,postman,idea,vscode,linux&theme=dark" />
-</div>
+# 🛠 Tech Stack
 
-<br/>
+### Languages
 
-**Also working with:** Spring Security · Hibernate/JPA · DSA
+`Java` • `C++` • `JavaScript` • `TypeScript` • `SQL`
 
-<br/>
+### Backend
 
-### 🔥 Featured Project
+`Spring Boot` • `Spring Security` • `Hibernate` • `JPA`
 
-<div align="center">
+### Frontend
 
-[![Todo API](https://github-readme-stats.vercel.app/api/pin/?username=Khush786Mohammad&repo=Spring-Framework&theme=dark&title_color=0e75b6&icon_color=0e75b6)](https://github.com/Khush786Mohammad/Spring-Framework/tree/master/todo-api)
+`Angular` • `React` • `Bootstrap` • `Tailwind CSS`
 
-_A Spring Boot Todo API — simple on the surface, deep dive underneath_ 😄
-**Next up:** Notes API + Frontend
+### Database
 
-</div>
+`MySQL`
 
-<br/>
+### Tools
 
-### 📊 GitHub Stats
+`Git` • `GitHub` • `Postman` • `IntelliJ IDEA` • `VS Code` • `Linux`
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khush786mohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush786mohammad&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+---
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khush786mohammad&theme=tokyonight&hide_border=true" />
-</div>
+# 📌 Featured Projects
 
-<br/>
+## 📝 Todo API
 
-### 🌐 Connect with Me
+A production-style REST API built using Spring Boot.
 
-<div align="center">
+**Features**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khush-mohammad-27a348246/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khush786moh@gmail.com)
+- CRUD Operations
+- DTO Pattern
+- Bean Validation
+- Global Exception Handling
+- Logging
+- Swagger Documentation
+- Spring Data JPA
+- MySQL
 
-<!-- Portfolio coming end of August — add badge here once live:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+Repository:
+https://github.com/Khush786Mohammad/Spring-Framework/tree/master/todo-api
 
-</div>
+---
 
-<br/>
+## 📒 Notes API _(In Progress)_
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=khush786mohammad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="khush786mohammad" />
-</div>
+- JWT Authentication
+- Spring Security
+- Validation
+- Swagger
+- Docker
+- Angular Frontend
+- Microservices (Future)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%"/>
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Spring Boot
+- ✅ JPA / Hibernate
+- ✅ REST APIs
+- 🔄 JWT Authentication
+- 🔄 Angular
+- 🔄 Microservices
+- ⏳ Docker
+- ⏳ Kubernetes
+- ⏳ AWS
+- ⏳ System Design
+
+---
+
+# 📊 GitHub Stats
+
+> Replace `Khush786Mohammad` if your username changes.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Khush786Mohammad&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush786Mohammad&layout=compact&theme=github_dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khush786Mohammad&theme=github-dark-blue)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khush786Mohammad&theme=github-dark)
+
+---
+
+# ☕ Beyond Coding
+
+- ☕ Coffee Lover
+- 🏋️ Fitness Enthusiast
+- 📚 Always Learning
+- 🔍 Love Debugging
+- 💡 Love Building New Things
+
+---
+
+# 🌐 Connect
+
+- LinkedIn: _Coming Soon_
+- Portfolio: _Coming Soon_
+
+---
+
+> **"First make it work. Then understand why it works. Then make it better."**
